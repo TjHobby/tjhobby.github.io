@@ -182,9 +182,11 @@ a:focus{
 .modal-title{
 font-weight: 800;
 font-size: 2rem;
+text-align: center;
 }
 
 .modal-btn{
+	background-color: #fff;
 	display: inline-block;
 	border: 1px solid #333;
 	padding: 10px 20px;
